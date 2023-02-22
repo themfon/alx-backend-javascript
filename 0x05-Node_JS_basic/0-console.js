@@ -1,5 +1,5 @@
-function displayMessage(data) {
-  console.log(data);
+function displayMessage(toPrint) {
+  console.log(toPrint);
 }
 
 module.exports = displayMessage;
